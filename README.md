@@ -25,6 +25,6 @@ rating - rating out of 10 this user has assigned (-1 if the user watched it but 
 
 The Goal
 
-To build a recommendation system based on user viewing history by using nearest neighbors and collaborative filtering approachc. See the notebook for a detailed analysis; to view just the code, see the individual .py files.
+To build a recommendation system based on user viewing history by using nearest neighbors and collaborative filtering approach. See the notebook for a detailed analysis; to view just the code, see the individual .py files.
 
 Feedback appreciated!
