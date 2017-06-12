@@ -1,7 +1,7 @@
 # Anime-Recommender
 Anime-Recommender
 
-An anime recommendation system using Kaggle's [Anime Recommendations Database](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
+An anime recommendation system using Kaggle's [Anime Recommendations Database](https://www.kaggle.com/CooperUnion/anime-recommendations-database).
 
 The Dataset
 
