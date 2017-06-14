@@ -5,7 +5,7 @@ An anime recommendation system using Kaggle's [Anime Recommendations Database](h
 
 The Dataset
 
-This dataset contains information on user preference data from 73,516 users on 12,294 anime, found on [myanimelist.net](myanimelist.net). Each user is able to add anime to their completed list and give it a rating. This dataset is a compilation of those ratings, using the following features:
+This dataset contains information on user preference data from 73,516 users on 12,294 anime, found on [myanimelist.net](https://myanimelist.net/). Each user is able to add anime to their completed list and give it a rating. This dataset is a compilation of those ratings, using the following features:
 
 Anime.csv
 
